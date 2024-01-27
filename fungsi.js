@@ -1,1 +1,1 @@
-console.log("funsgi pertama");
+console.log("fungsi pertama");
